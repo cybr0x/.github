@@ -33,8 +33,8 @@ Our mission is to build cutting-edge software solutions that deliver value to bu
 
 Interested in working with Cybrox? We’re always open to new projects, collaborations, and discussions. Feel free to reach out, open issues, or contribute to our open-source projects.
 
-- **Website**: [cybrox.com](https://www.cybrox.com) *(Replace with your actual site URL if available)*
-- **Contact**: [info@cybrox.com](mailto:info@cybrox.com)
+- **Website**: [cybrox.in](https://www.cybrox.in)
+- **Contact**: [team@cybrox.in](mailto:team@cybrox.in)
 
 ## 👨‍💻 Get Involved
 
